@@ -14,7 +14,7 @@ Personal QX ruleset & utility scripts. Self-hosted for stability.
 Import in QX `[rewrite_local]`:
 
 ```
-https://raw.githubusercontent.com/Xo776/by-yt/main/qx.conf, tag=QX Rules, enabled=true
+https://raw.githubusercontent.com/Xo776/helper-lib/main/qx.conf, tag=QX Rules, enabled=true
 ```
 
 Requires `udp_drop_list=443` in `[general]`.
