@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+# Python
+__pycache__/
+*.py[cod]
+.venv/
